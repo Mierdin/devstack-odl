@@ -1,3 +1,14 @@
+#OpenDaylight Devstack
+
+This is a special version of Devstack specifically created to deploy OpenStack in conjunction with OpenDaylight. This was pulled directly from the Fedora20 Virtual Machine built by Kyle Mestery (@mestery), Brent Salisbury (@networkstatic), Madhu Venugopal (@MadhuVenugopal) and the rest of the ODL-OVSDB community. The unchanged virtual machine is available here.
+
+`https://wiki.opendaylight.org/images/HostedFiles/Fedora20_ODL_OpenStack.zip`
+
+I am hosting here here so that any changes I make can be properly tracked.
+
+Original Devstack README follows.
+
+
 DevStack is a set of scripts and utilities to quickly deploy an OpenStack cloud.
 
 # Goals
