@@ -4,7 +4,7 @@ This is a special version of Devstack specifically created to deploy OpenStack i
 
 https://wiki.opendaylight.org/images/HostedFiles/Fedora20_ODL_OpenStack.zip
 
-I am hosting here here so that any changes I make can be properly tracked.
+I am hosting this here so that any changes I make can be properly tracked, and so that these changes can be immediately pushed to the test virtual machine by simply pulling the git changes down.
 
 Original Devstack README follows.
 
